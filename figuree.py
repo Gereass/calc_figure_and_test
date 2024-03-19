@@ -1,6 +1,7 @@
 NAME = "figuree"
 import math
 
+
 class calc:
     def calc_S_circkl(self, r):
         return round((r * r * math.pi), 5)
